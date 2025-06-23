@@ -78,7 +78,6 @@
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=MohitPatni0731&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00E1D3&icon_color=00E1D3&text_color=FFF" alt="Mohit's GitHub Stats" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitPatni0731&layout=compact&langs_count=8&theme=merko&hide_border=true&bg_color=0D1117&title_color=00E1D3&text_color=FFF" alt="Mohit's Top Languages" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohitPatni0731&theme=merko&hide_border=true&background=0D1117&stroke=00E1D3&ring=00E1D3&fire=00E1D3&currStreakNum=FFF&sideNums=FFF&sideLabels=FFF&dates=FFF" alt="Mohit's Contribution Streak" />
       </p>
     </td>
   </tr>
