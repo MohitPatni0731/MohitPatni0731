@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/M6L4i26.gif" width="100%"/>
+  <img src="https://i.imgur.com/9O6c42h.gif" width="100%"/>
 </div>
 
 <div align="center">
@@ -23,8 +23,8 @@
 
 <table>
   <tr>
-    <td valign="top" width="100%">
-      <img align="right" src="https://i.imgur.com/i1p5Vf8.gif" width="300" />
+    <td valign="top" width="65%">
+      <img align="right" src="https://i.imgur.com/1I2j1yv.gif" width="300" />
       <h2>❯ GREETINGS, FELLOW BUILDER.</h2>
       <p>
         I'm Mohit, a graduate student in Computer Science at <strong>CSU Fullerton</strong> and an artisan of intelligent systems. I don't just see code; I see a medium for shaping reality. My work is a fusion of rigorous engineering and creative intuition, transforming raw data into elegant, insightful, and impactful experiences.
@@ -60,7 +60,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/MohitPatni0731/MohitPatni0731/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitPatni0731&theme=react-dark&bg_color=0A092D&hide_border=true&line=F72585&point=4CC9F0&area=true" alt="Mohit's Activity Graph"/>
 </div>
 
 ---
